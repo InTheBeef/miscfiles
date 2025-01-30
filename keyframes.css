@@ -1,0 +1,18 @@
+@keyframes alert-animation {
+    0% {
+      transform: scale(0);
+      opacity: 0;
+    }
+    10.6923076923076925% {
+      transform: scale(1);
+      opacity: 1;
+    }
+    85.3076923076923% {
+      transform: scale(1);
+    opacity: 1;
+    }
+    100% {
+        transform: scale(0);
+    opacity: 0;
+    }
+}
